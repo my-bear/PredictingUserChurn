@@ -1,0 +1,43 @@
+{
+    "params": {
+        "iterations": 377,
+        "learning_rate": 0.029631961541284137,
+        "depth": 4,
+        "l2_leaf_reg": 7,
+        "border_count": 32,
+        "random_strength": 6,
+        "rsm": 0.8199871508125399,
+        "grow_policy": "Depthwise",
+        "bootstrap_type": "Bayesian",
+        "loss_function": "Logloss",
+        "eval_metric": "Recall",
+        "verbose": false,
+        "random_seed": 42,
+        "thread_count": 2,
+        "early_stopping_rounds": 20,
+        "auto_class_weights": "Balanced",
+        "cat_features": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "metrics": {
+        "roc_auc": 0.8418152990227826,
+        "precision": 0.49245145266661117,
+        "recall": 0.8252104922279793
+    }
+}
