@@ -3,7 +3,7 @@
 **/train/**/*.png
 **/val/**/*.png
 catboost_info
-configs/CatBoost
+configs/
 
 *.pth
 !model/*.pths
