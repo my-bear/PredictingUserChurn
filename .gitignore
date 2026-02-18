@@ -3,11 +3,7 @@
 **/train/**/*.png
 **/val/**/*.png
 catboost_info
-<<<<<<< HEAD
-configs/
-=======
 configs/CatBoost
->>>>>>> main
 
 *.pth
 !model/*.pths
