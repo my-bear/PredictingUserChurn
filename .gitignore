@@ -1,8 +1,11 @@
 .vscode/
+.vs/
 
 **/train/**/*.png
 **/val/**/*.png
 catboost_info
+
+
 <<<<<<< HEAD
 configs/
 =======
